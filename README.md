@@ -8,4 +8,4 @@ Some concepts utilzied in this project are:
 - ARIMA (Autoregressive Integrated Moving Average)
 - Stationarity and Invertibility
 
-The resulting analysis provides a 95% confidence level of the expected prices in the coming future
+The resulting analysis provides a 95% confidence level of the expected prices in the coming future.
